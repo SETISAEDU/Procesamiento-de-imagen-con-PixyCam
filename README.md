@@ -35,7 +35,7 @@ El programa que se cargara al ARDUINO Mega se llama: `PixyCam_Arduino` el cual c
 El arreglo de los indicadores LED´s forman una matriz de 3x3 que representan las secciones en las que hemos dividido el rango de visualización de la cámara.
 
 ## Diagrama de conexion
-
+![Diagrama de conexion](https://raw.githubusercontent.com/SETISAEDU/Procesamiento-de-imagen-con-PixyCam/master/Diagrama.jpg)
 
 
 
